@@ -1,0 +1,14 @@
+E:\Works\processo_seletivo_senai\programacao_banco_dados_III\aula_teste\back_end\Aula.teste.WebApi\Aula.teste.WebApi\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+E:\Works\processo_seletivo_senai\programacao_banco_dados_III\aula_teste\back_end\Aula.teste.WebApi\Aula.teste.WebApi\bin\Debug\netcoreapp2.1\Aula.teste.WebApi.deps.json
+E:\Works\processo_seletivo_senai\programacao_banco_dados_III\aula_teste\back_end\Aula.teste.WebApi\Aula.teste.WebApi\bin\Debug\netcoreapp2.1\Aula.teste.WebApi.runtimeconfig.json
+E:\Works\processo_seletivo_senai\programacao_banco_dados_III\aula_teste\back_end\Aula.teste.WebApi\Aula.teste.WebApi\bin\Debug\netcoreapp2.1\Aula.teste.WebApi.runtimeconfig.dev.json
+E:\Works\processo_seletivo_senai\programacao_banco_dados_III\aula_teste\back_end\Aula.teste.WebApi\Aula.teste.WebApi\bin\Debug\netcoreapp2.1\Aula.teste.WebApi.dll
+E:\Works\processo_seletivo_senai\programacao_banco_dados_III\aula_teste\back_end\Aula.teste.WebApi\Aula.teste.WebApi\obj\Debug\netcoreapp2.1\Aula.teste.WebApi.csprojAssemblyReference.cache
+E:\Works\processo_seletivo_senai\programacao_banco_dados_III\aula_teste\back_end\Aula.teste.WebApi\Aula.teste.WebApi\obj\Debug\netcoreapp2.1\Aula.teste.WebApi.RazorAssemblyInfo.cache
+E:\Works\processo_seletivo_senai\programacao_banco_dados_III\aula_teste\back_end\Aula.teste.WebApi\Aula.teste.WebApi\obj\Debug\netcoreapp2.1\Aula.teste.WebApi.RazorAssemblyInfo.cs
+E:\Works\processo_seletivo_senai\programacao_banco_dados_III\aula_teste\back_end\Aula.teste.WebApi\Aula.teste.WebApi\obj\Debug\netcoreapp2.1\Aula.teste.WebApi.AssemblyInfoInputs.cache
+E:\Works\processo_seletivo_senai\programacao_banco_dados_III\aula_teste\back_end\Aula.teste.WebApi\Aula.teste.WebApi\obj\Debug\netcoreapp2.1\Aula.teste.WebApi.AssemblyInfo.cs
+E:\Works\processo_seletivo_senai\programacao_banco_dados_III\aula_teste\back_end\Aula.teste.WebApi\Aula.teste.WebApi\obj\Debug\netcoreapp2.1\Aula.teste.WebApi.RazorTargetAssemblyInfo.cache
+E:\Works\processo_seletivo_senai\programacao_banco_dados_III\aula_teste\back_end\Aula.teste.WebApi\Aula.teste.WebApi\bin\Debug\netcoreapp2.1\Aula.teste.WebApi.pdb
+E:\Works\processo_seletivo_senai\programacao_banco_dados_III\aula_teste\back_end\Aula.teste.WebApi\Aula.teste.WebApi\obj\Debug\netcoreapp2.1\Aula.teste.WebApi.dll
+E:\Works\processo_seletivo_senai\programacao_banco_dados_III\aula_teste\back_end\Aula.teste.WebApi\Aula.teste.WebApi\obj\Debug\netcoreapp2.1\Aula.teste.WebApi.pdb
