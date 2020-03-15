@@ -1,11 +1,11 @@
 # Roteiro de aula
 
-Roteiro de execução da aula teste a fim de explicar o conteúdo abordado.
+Roteiro de execução da aula teste a fim de explicar os conteúdos abordados.
 
 
 ## Tema de exemplo
 
-Exibição de informações armazenadas em um banco de dados através da de uma API.
+Exibição de informações armazenadas em um banco de dados através de uma API.
 
 
 ## Resumo
